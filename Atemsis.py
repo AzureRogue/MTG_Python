@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun 26 12:48:10 2019
-
-CURRENT ISSUES:
-    - will only cast one spell per turn, would need nested where loops to cast 
-      more than one until we run out of lands
-    - still need to write functions to cast the various spells in the deck
     
-@author: fxsmith
+@author: AzureRogue
 """
 
 import random
